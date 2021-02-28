@@ -2,11 +2,11 @@
 
 First project with HTML CSS e JS
 
-## tarefas
+## Tasks
 
 The control about the project will be made on GitHub
 
-## ícones
+## Icons
 
 :package: new function
 :up: atualization
