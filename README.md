@@ -1,14 +1,14 @@
 # portfolio
 
-Primeiro projeto com HTML CSS e JS
+First project with HTML CSS e JS
 
 ## tarefas
 
-O controle das tarefas deste projeto será realizado pelo github
+The control about the project will be made on GitHub
 
 ## ícones
 
-:package: nova funcionalidade
-:up: atualização
-:beattle: correção de bug
+:package: new function
+:up: atualization
+:beetle: bug correction
 :checkered_flag: release
